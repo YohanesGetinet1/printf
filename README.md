@@ -10,7 +10,7 @@
 ```diff
 - In this repository we try to do our version of the printf function,
 
- the basic and main functions.
+- the basic and main functions.
 
 + We will apply C programming language for taking care of the task.
 
