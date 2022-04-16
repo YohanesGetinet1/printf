@@ -23,24 +23,32 @@
 ## TASK 
 -----------------------
 0.Write a function that produces output according to a format.
- .c
- .s
- .%
+
+.c
+
+.s
+
+.%
+
 -------------------------
 1.Handle the following conversion specifiers
+
  .d
+ 
  .i
+ 
 -------------------------
 2.Create manual (man) page for the function.
 
 ## Authors
 
-<h1>
+<h3>
 ```diff
+
 -1.[Yohanes Getinet Nuriye](https://github.com/YohanesGetinet1):
 
 
 +2.Francois Gonothi Toure
 
-</h1>
+</h3>
 
