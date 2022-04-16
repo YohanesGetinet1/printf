@@ -8,7 +8,9 @@
 <p>
 
 ```diff
-- In this repository we try to do our version of the printf function,<br> the basic and main functions.
+- In this repository we try to do our version of the printf function,
+
+ the basic and main functions.
 
 + We will apply C programming language for taking care of the task.
 
@@ -45,7 +47,7 @@
 <h3>
 
 
-1.[Yohanes Getinet Nuriye](https://github.com/YohanesGetinet1):
+1.[Yohanes Getinet Nuriye](https://github.com/YohanesGetinet1)
 
 
 2.Francois Gonothi Toure
@@ -53,5 +55,5 @@
 </h3>
 
 
-Requested by [ALX](https://www.alxafrica.com/software-engineering-2022 )Software Engineering Programme
+Requested by [ALX](https://www.alxafrica.com/software-engineering-2022 ) Software Engineering Programme
 
