@@ -14,7 +14,7 @@
 
 ! This is group project titled by the project name ('0x11 C - Printf')
 
-# Requested by [ALX](https://www.alxafrica.com/software-engineering-2022 )Software Engineering Programme
+# 
 ```
 
 </p>
@@ -43,12 +43,15 @@
 ## Authors
 
 <h3>
-```diff
-
--1.[Yohanes Getinet Nuriye](https://github.com/YohanesGetinet1):
 
 
-+2.Francois Gonothi Toure
+1.[Yohanes Getinet Nuriye](https://github.com/YohanesGetinet1):
+
+
+2.Francois Gonothi Toure
 
 </h3>
+
+
+Requested by [ALX](https://www.alxafrica.com/software-engineering-2022 )Software Engineering Programme
 
