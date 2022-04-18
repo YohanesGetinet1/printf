@@ -19,6 +19,7 @@ int (*get_func(char x))(va_list)
 		{"i", print_i},
 		{NULL, NULL}
 	};
+	
 	while (arr[i].valid)
 	{
 		if (x == arr[i].valid[0])
