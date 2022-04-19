@@ -42,7 +42,7 @@
 -------------------------
 2.Create manual (man) page for the function.
 
-## Authors
+## Author
 
 <h3>
 
@@ -50,10 +50,10 @@
 1.[Yohanes Getinet Nuriye](https://github.com/YohanesGetinet1)
 
 
-2.Francois Gonothi Toure
+
 
 </h3>
 
 
-Requested by [ALX](https://www.alxafrica.com/software-engineering-2022 ) Software Engineering Programme
+Requested by [ALX](https://www.alxafrica.com/software-engineering-2022 )  Software Engineering Programme
 
